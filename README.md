@@ -77,8 +77,15 @@ CMD ["Main"]
 
 ### 이미지별 용량 확인
 
-![image](https://github.com/user-attachments/assets/fbf17579-7501-4f4f-a9a8-989d8aa0cdf5)
+![image](https://github.com/user-attachments/assets/3b148c02-e4ca-4d33-a4cf-d94992310f15)
+
 
 default는 ubuntu 기본 이미지 파일로 가장 많은 용량을 차지하며 alpine > distroless 순으로 용량이 경량화 되는 것을 알 수 있다.
+
+
+### 참고자료
+다음 홈페이지를 참고하여 작성하였습니다 <br>
+https://overcast.blog/docker-image-optimization-tips-tricks-6a17f687162b <br>
+https://skyandground.notion.site/10bde254fc7380dabd14f0f7b9982cd0
 
 
